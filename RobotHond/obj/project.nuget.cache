@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "fgDHpG7dcXN/FXPVLZAv2GlINOcjcWOBMdGHURaC20uoEyY6s4nFvbQrDPko1Y834uSePqYJdLaxTfdw2/sD5g==",
+  "success": true,
+  "projectFilePath": "D:\\Gebruikers\\IJdo\\Documenten\\GitHub\\Project-Robotica\\RobotCode\\RobotHond\\RobotHond.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IJdo\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\6.0.0\\runtime.linux-arm.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\IJdo\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\6.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\IJdo\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\6.0.0\\runtime.linux-x64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\IJdo\\.nuget\\packages\\runtime.native.system.io.ports\\6.0.0\\runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\IJdo\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\6.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\IJdo\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\6.0.0\\runtime.osx-x64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\IJdo\\.nuget\\packages\\system.io.ports\\6.0.0\\system.io.ports.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
